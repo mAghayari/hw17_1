@@ -1,0 +1,4 @@
+Incorrect command: {[/, 1, 0, 1, 1], on date 6/7/2020}
+Incorrect command: {[book, 7, 7], on date 6/7/2020}
+Incorrect command: {[/, 9, 0, 9, 9], on date 6/7/2020}
+Incorrect command: {[economy, 19, 19], on date 6/7/2020}

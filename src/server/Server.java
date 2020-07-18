@@ -16,10 +16,7 @@ import java.util.Scanner;
 public class Server {
 
     public static int commandCounter = 0;
-    private static final Logger LOGGER = Logger.getLogger(Server.class);
-
     public static void main(String[] args) {
-        LOGGER.info("socket server starting");
         try {
             Path operationsPath = Paths.get("C:\\Users\\Codebanoo\\IdeaProjects\\serverSocket\\src\\operations.txt");
             List<String> operationList = Files.readAllLines(operationsPath);
